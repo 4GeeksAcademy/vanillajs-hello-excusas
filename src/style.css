@@ -1,1 +1,9 @@
-@import "~bootstrap/dist/css/bootstrap.min.css";
+.excuse {
+  font-size: 1.2rem;
+}
+
+/* #excuse-history {
+  max-height: 200px;
+  overflow-y: scroll;
+}
+ */
